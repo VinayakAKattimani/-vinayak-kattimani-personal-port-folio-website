@@ -1,13 +1,13 @@
 /* ── DATA ── */
 const coreSkills = [
-  { e:'🌐', n:'HTML / CSS',       s:'Frontend',        r:4 },
-  { e:'⚡', n:'JavaScript',       s:'Scripting',       r:3 },
   { e:'☕', n:'Java',             s:'Automation Core', r:4 },
   { e:'🤖', n:'Selenium',         s:'Web Automation',  r:4 },
   { e:'🧪', n:'TestNG',           s:'Test Framework',  r:4 },
   { e:'🔗', n:'API Testing',      s:'Postman · REST',  r:4 },
   { e:'🗄️', n:'SQL',             s:'Backend QA',      r:4 },
   { e:'🚀', n:'Jenkins',          s:'CI/CD',           r:3 },
+  { e:'🌐', n:'HTML / CSS',       s:'Frontend',        r:4 },
+  { e:'⚡', n:'JavaScript',       s:'Scripting',       r:3 },
 ];
 
 const skillGroups = [
