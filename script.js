@@ -31,26 +31,27 @@ const projects = [
     icon:'🏢🤝', title:'Orange HRM End to End Automation Frameword',
     desc:'Backend data quality project using advanced SQL queries to detect and categorize failed, missing, and inconsistent transaction records across a 100k+ row dataset.',
     stack:['Selenium','Java','TestNG','Jenkins','CI/CD','Page Object Model', 'Extent Reports', 'Maven'],
-    gh:'https://github.com/VinayakAKattimani',
+    gh:'https://github.com/VinayakAKattimani/OrangeHRM_Automation_framework',
   },
   {
     icon:'🏦', title:'E-Banking Web App Automation',
     desc:'End-to-end automated test suite for a banking application covering authentication, fund transfers, and account validation — integrated with Jenkins CI/CD pipeline.',
     stack:['Selenium','Java','TestNG','Jenkins','CI/CD','Page Object Model'],
-    gh:'https://github.com/VinayakAKattimani',
+    gh:'https://github.com/VinayakAKattimani/E-banking-testing_automation',
+  },
+  {
+    icon:'🔍', title:'Transaction Failure Analysis — SQL',
+    desc:'Backend data quality project using advanced SQL queries to detect and categorize failed, missing, and inconsistent transaction records across a 100k+ row dataset.',
+    stack:['SQL','PostgreSQL','Backend Testing','Data Validation'],
+    gh:'https://github.com/VinayakAKattimani/transaction_failure_analysis',
   },
   {
     icon:'🔌', title:'API Testing Automation Framework',
     desc:'Automated API testing framework for validating REST APIs including authentication, CRUD operations, response validation, and status code verification using Postman and RestAssured with CI/CD integration.',
     stack:['Postman','RestAssured','Java','TestNG','Maven','API Testing','Jenkins','CI/CD'],
     gh:'https://github.com/VinayakAKattimani',
-  },
-  {
-    icon:'🔍', title:'Transaction Failure Analysis — SQL',
-    desc:'Backend data quality project using advanced SQL queries to detect and categorize failed, missing, and inconsistent transaction records across a 100k+ row dataset.',
-    stack:['SQL','PostgreSQL','Backend Testing','Data Validation'],
-    gh:'https://github.com/VinayakAKattimani',
   }
+  
   
 ];
 
